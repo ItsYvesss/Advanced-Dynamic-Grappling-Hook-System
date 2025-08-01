@@ -1,5 +1,5 @@
 -- Advanced Dynamic Grappling Hook System
--- Author: Yves / For HiddenDevs Luau Scripter Application
+-- Author: YVZ(yvesdev123) / For HiddenDevs Luau Scripter Application
 
 --// SERVICES
 local Players = game:GetService("Players")
